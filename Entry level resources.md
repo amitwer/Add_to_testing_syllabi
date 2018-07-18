@@ -15,5 +15,6 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[Taking Control Of Your Test Environment](https://www.youtube.com/watch?v=ufZ4tDSgvv8)|Ioana Serban|Video (75 minutes, conference talk)|Addresses a common problem (junior) testers face - being pushed aside and |
 |[Open Lecture on Software Testing](https://www.youtube.com/watch?v=ILkT_HV9DVU)|James Bach|Video (~100 minutes)|Good demonstration of a testing process. Teaches a mindset more than specific tools|
 |[The Power of an Agile Mindset](https://www.youtube.com/watch?v=SMvVJwwMn5A)|Linda Rising|Video (45 minutes, conference talk)|Important message on the importance of keeping to learn, and never rule out acquiring a new skill)|
+|[What is A/B Testing about?](https://visible-quality.blogspot.com/2018/07/what-is-ab-testing-about.html)|Maaret Pyhäjärvi|Blog|Good introduction to A/B testing, with a challenge to take it to the next level|
 
 
