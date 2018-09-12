@@ -18,5 +18,6 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[The Power of an Agile Mindset](https://www.youtube.com/watch?v=SMvVJwwMn5A)|Linda Rising|Video (45 minutes, conference talk)|Important message on the importance of keeping to learn, and never rule out acquiring a new skill)|
 |[What is A/B Testing about?](https://visible-quality.blogspot.com/2018/07/what-is-ab-testing-about.html)|Maaret Pyhäjärvi|Blog|Good introduction to A/B testing, with a challenge to take it to the next level|
 |[Mindful testing](http://qablog.practitest.com/mindful-testing/)|Joel Montvelisky|Blog|A short read about the importance of focus|
+|[Failure usability](http://www.questioningsoftware.com/2007/08/failure-usability.html)|Ben Simo|Blog|How to approach testing error messages|
 
 
