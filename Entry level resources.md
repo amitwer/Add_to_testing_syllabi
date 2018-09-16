@@ -10,7 +10,8 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 
 |Resource|Content by| Type |Why is it recommended ?|
 |---|---|---|---|
-|[Things the Frog Did Not Notice Before It Was Late](http://visible-quality.blogspot.ie/2018/02/things-frog-did-not-notice-before-it.html)|Maaret Pyhäjärvi|Blog|Challenges common outdated beliefs and practices that are still taught today|
+|[Things the Frog Did Not Notice Before It Was Late](http://visible-quality.blogspot.com/2018/02/things-frog-did-not-notice-before-it.html)|Maaret Pyhäjärvi|Blog|Challenges common outdated beliefs and practices that are still taught today|
+|[Three Kinds Of Testing](https://visible-quality.blogspot.com/2018/09/three-kinds-of-testing.html)|Maaret Pyhäjärvi|Blog|Test cases, automation and what actually is testing|
 |[Considering a Career in Software Testing?](http://blog.eviltester.com/2018/02/considering-software-testing-career.html)   |Alan Richardson|Video (20 minutes) \ post|Provides a good approach to starting in software testing, with specific resource recommendations, but more importantly, with a professional approach|
 |[Evil tester compendium of tests apps?](http://blog.eviltester.com/2018/08/compendium-test-apps-1-2.html)|Alan Richardson|software|A bunch of apps intended to practice skills used in testing. An important statement from the accompaniying video: "Testing isn't about bugs, it's about learning the techniques"|
 |[Taking Control Of Your Test Environment](https://www.youtube.com/watch?v=ufZ4tDSgvv8)|Ioana Serban|Video (75 minutes, conference talk)|Addresses a common problem (junior) testers face - being pushed aside and |
