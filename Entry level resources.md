@@ -20,5 +20,6 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[What is A/B Testing about?](https://visible-quality.blogspot.com/2018/07/what-is-ab-testing-about.html)|Maaret Pyhäjärvi|Blog|Good introduction to A/B testing, with a challenge to take it to the next level|
 |[Mindful testing](http://qablog.practitest.com/mindful-testing/)|Joel Montvelisky|Blog|A short read about the importance of focus|
 |[Failure usability](http://www.questioningsoftware.com/2007/08/failure-usability.html)|Ben Simo|Blog|How to approach testing error messages|
+|[Bug statistics are a waste of time](https://gojko.net/2011/05/17/bug-statistics-are-a-waste-of-time/)|Gojko Adzick|Blog|Some thoughts about bug repositories and why they might be a waste|
 
 
