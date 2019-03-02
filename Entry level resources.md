@@ -21,5 +21,5 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[Mindful testing](http://qablog.practitest.com/mindful-testing/)|Joel Montvelisky|Blog|A short read about the importance of focus|
 |[Failure usability](http://www.questioningsoftware.com/2007/08/failure-usability.html)|Ben Simo|Blog|How to approach testing error messages|
 |[Bug statistics are a waste of time](https://gojko.net/2011/05/17/bug-statistics-are-a-waste-of-time/)|Gojko Adzick|Blog|Some thoughts about bug repositories and why they might be a waste|
-
+|[Building a Data Centric Modern Quality Culture](https://www.youtube.com/watch?v=7Q87RqN_FcM)|Brent Jensen|video (65 minutes, recorded webinar)|Good intro to instilling "data centric" practices - applying it might be a bit advanced, but it's important to be familiar with data as a goal|
 
