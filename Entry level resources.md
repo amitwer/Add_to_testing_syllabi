@@ -19,6 +19,7 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[The Power of an Agile Mindset](https://www.youtube.com/watch?v=SMvVJwwMn5A)|Linda Rising|Video (45 minutes, conference talk)|Important message on the importance of keeping to learn, and never rule out acquiring a new skill)|
 |[What is A/B Testing about?](https://visible-quality.blogspot.com/2018/07/what-is-ab-testing-about.html)|Maaret Pyhäjärvi|Blog|Good introduction to A/B testing, with a challenge to take it to the next level|
 |[Mindful testing](http://qablog.practitest.com/mindful-testing/)|Joel Montvelisky|Blog|A short read about the importance of focus|
+|[Stop testing and start doing your job!](https://qablog.practitest.com/stop-testing-start-doing-your-job/)|Joel Montvelisky|Blog|Running tests is not the best way to help your company. At least not always|
 |[Failure usability](http://www.questioningsoftware.com/2007/08/failure-usability.html)|Ben Simo|Blog|How to approach testing error messages|
 |[Bug statistics are a waste of time](https://gojko.net/2011/05/17/bug-statistics-are-a-waste-of-time/)|Gojko Adzick|Blog|Some thoughts about bug repositories and why they might be a waste|
 |[Building a Data Centric Modern Quality Culture](https://www.youtube.com/watch?v=7Q87RqN_FcM)|Brent Jensen|video (65 minutes, recorded webinar)|Good intro to instilling "data centric" practices - applying it might be a bit advanced, but it's important to be familiar with data as a goal|
