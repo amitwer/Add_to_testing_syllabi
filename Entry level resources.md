@@ -24,4 +24,5 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[Bug statistics are a waste of time](https://gojko.net/2011/05/17/bug-statistics-are-a-waste-of-time/)|Gojko Adzick|Blog|Some thoughts about bug repositories and why they might be a waste|
 |[Building a Data Centric Modern Quality Culture](https://www.youtube.com/watch?v=7Q87RqN_FcM)|Brent Jensen|video (65 minutes, recorded webinar)|Good intro to instilling "data centric" practices - applying it might be a bit advanced, but it's important to be familiar with data as a goal|
 |[How this tester writes code](https://testingcurve.wordpress.com/2019/06/08/how-this-tester-writes-code/)|Joep Schuurkes|Blog|Good way to present good concepts about writing code, especially test code|
+|[The beginning of discovery](https://mavericktester.com/2020/02/01/the-beginning-of-discovery/)|Anne-Marie Charrett|Blog|On the benefits of shallow tests|
 
