@@ -25,4 +25,5 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[Building a Data Centric Modern Quality Culture](https://www.youtube.com/watch?v=7Q87RqN_FcM)|Brent Jensen|video (65 minutes, recorded webinar)|Good intro to instilling "data centric" practices - applying it might be a bit advanced, but it's important to be familiar with data as a goal|
 |[How this tester writes code](https://testingcurve.wordpress.com/2019/06/08/how-this-tester-writes-code/)|Joep Schuurkes|Blog|Good way to present good concepts about writing code, especially test code|
 |[The beginning of discovery](https://mavericktester.com/2020/02/01/the-beginning-of-discovery/)|Anne-Marie Charrett|Blog|On the benefits of shallow tests|
+|[The little black book on test design](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf)|Rikard Edgren|Book|Tets design heuristics|
 
