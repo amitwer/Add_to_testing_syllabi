@@ -26,4 +26,5 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[How this tester writes code](https://testingcurve.wordpress.com/2019/06/08/how-this-tester-writes-code/)|Joep Schuurkes|Blog|Good way to present good concepts about writing code, especially test code|
 |[The beginning of discovery](https://mavericktester.com/2020/02/01/the-beginning-of-discovery/)|Anne-Marie Charrett|Blog|On the benefits of shallow tests|
 |[The little black book on test design](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf)|Rikard Edgren|Book|Tets design heuristics|
+|[Manual testing has no future, manual testing has no past. It never existed!](https://mrslavchev.com/2017/12/11/manual-testing-never-existed/)|Viktor Slavchev|Blog post|It's a rant, but a useful one|
 
