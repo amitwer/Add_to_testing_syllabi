@@ -27,5 +27,5 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[The beginning of discovery](https://mavericktester.com/2020/02/01/the-beginning-of-discovery/)|Anne-Marie Charrett|Blog|On the benefits of shallow tests|
 |[The little black book on test design](http://www.thetesteye.com/papers/TheLittleBlackBookOnTestDesign.pdf)|Rikard Edgren|Book|Tets design heuristics|
 |[Manual testing has no future, manual testing has no past. It never existed!](https://mrslavchev.com/2017/12/11/manual-testing-never-existed/)|Viktor Slavchev|Blog post|It's a rant, but a useful one|
-|[When You're Evil: Building credibility-based relationships with devs](https://www.youtube.com/watch?v=APSXevi3B3Q)|Curtis Petit|Video (58 minutes, conference talk)|Why credibility is important and how to build it fast|
+|[When You're Evil: Building credibility-based relationships with devs](https://www.youtube.com/watch?v=APSXevi3B3Q)|Curtis Pettit|Video (58 minutes, conference talk)|Why credibility is important and how to build it fast|
 
