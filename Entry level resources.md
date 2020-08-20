@@ -29,4 +29,5 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[Manual testing has no future, manual testing has no past. It never existed!](https://mrslavchev.com/2017/12/11/manual-testing-never-existed/)|Viktor Slavchev|Blog post|It's a rant, but a useful one|
 |[When You're Evil: Building credibility-based relationships with devs](https://www.youtube.com/watch?v=APSXevi3B3Q)|Curtis Pettit|Video (58 minutes, conference talk)|Why credibility is important and how to build it fast|
 |[Feature and Release Testing](https://visible-quality.blogspot.com/2020/05/feature-and-release-testing.html)|Maaret Pyhäjärvi|Blog post|Thoughts on new way to box our tests|
+|[The Software Mechanic](https://mavericktester.com/2020/08/16/the-software-mechanic/)|Anne-Marie Charrett|Blog post|An interesting analogy|
 
