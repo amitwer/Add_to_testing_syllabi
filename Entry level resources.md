@@ -30,4 +30,5 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[When You're Evil: Building credibility-based relationships with devs](https://www.youtube.com/watch?v=APSXevi3B3Q)|Curtis Pettit|Video (58 minutes, conference talk)|Why credibility is important and how to build it fast|
 |[Feature and Release Testing](https://visible-quality.blogspot.com/2020/05/feature-and-release-testing.html)|Maaret Pyhäjärvi|Blog post|Thoughts on new way to box our tests|
 |[The Software Mechanic](https://mavericktester.com/2020/08/16/the-software-mechanic/)|Anne-Marie Charrett|Blog post|An interesting analogy|
+|[The Difference of a Test Idea and a Test Case](https://visible-quality.blogspot.com/2020/10/the-difference-of-test-idea-and-test.html)|Maaret Pyhäjärvi|Blog post|Just in case you still thought test cases are a good idea...|
 
