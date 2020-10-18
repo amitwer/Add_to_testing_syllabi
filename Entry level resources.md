@@ -31,4 +31,7 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[Feature and Release Testing](https://visible-quality.blogspot.com/2020/05/feature-and-release-testing.html)|Maaret Pyhäjärvi|Blog post|Thoughts on new way to box our tests|
 |[The Software Mechanic](https://mavericktester.com/2020/08/16/the-software-mechanic/)|Anne-Marie Charrett|Blog post|An interesting analogy|
 |[The Difference of a Test Idea and a Test Case](https://visible-quality.blogspot.com/2020/10/the-difference-of-test-idea-and-test.html)|Maaret Pyhäjärvi|Blog post|Just in case you still thought test cases are a good idea...|
+|[Testing without a map](https://www.developsense.com/articles/2005-01-TestingWithoutAMap.pdf)|Michael Bolton|Short article|An introduction to the HICCUPPS heuristics (aka consistency heuristics). Useful when trying to determine "is it a bug". Also look for the "FEW HICCUPPS" addendum|
+
+
 
