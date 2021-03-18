@@ -5,9 +5,6 @@ This list will contain various types of resources: Some teaching concrete techni
 This list probably won't contain: Specific tools, how-to tutorials and such. Those might have place in a different files in the future.
 
 
-
-
-
 |Resource|Content by| Type |Why is it recommended ?|
 |---|---|---|---|
 |[Things the Frog Did Not Notice Before It Was Late](http://visible-quality.blogspot.com/2018/02/things-frog-did-not-notice-before-it.html)|Maaret Pyhäjärvi|Blog|Challenges common outdated beliefs and practices that are still taught today|
@@ -32,6 +29,7 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[The Software Mechanic](https://mavericktester.com/2020/08/16/the-software-mechanic/)|Anne-Marie Charrett|Blog post|An interesting analogy|
 |[The Difference of a Test Idea and a Test Case](https://visible-quality.blogspot.com/2020/10/the-difference-of-test-idea-and-test.html)|Maaret Pyhäjärvi|Blog post|Just in case you still thought test cases are a good idea...|
 |[Testing without a map](https://www.developsense.com/articles/2005-01-TestingWithoutAMap.pdf)|Michael Bolton|Short article|An introduction to the HICCUPPS heuristics (aka consistency heuristics). Useful when trying to determine "is it a bug". Also look for the "FEW HICCUPPS" addendum|
+|[Flaky testing](https://www.developsense.com/blog/2021/02/flaky-testing/)|Michael Bolton|Blog post|"This test is flaky" is commonly used as an excuse, here's a good reason to be suspicious about it|
 
 
 
