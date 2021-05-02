@@ -30,6 +30,7 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[The Difference of a Test Idea and a Test Case](https://visible-quality.blogspot.com/2020/10/the-difference-of-test-idea-and-test.html)|Maaret Pyhäjärvi|Blog post|Just in case you still thought test cases are a good idea...|
 |[Testing without a map](https://www.developsense.com/articles/2005-01-TestingWithoutAMap.pdf)|Michael Bolton|Short article|An introduction to the HICCUPPS heuristics (aka consistency heuristics). Useful when trying to determine "is it a bug". Also look for the "FEW HICCUPPS" addendum|
 |[Flaky testing](https://www.developsense.com/blog/2021/02/flaky-testing/)|Michael Bolton|Blog post|"This test is flaky" is commonly used as an excuse, here's a good reason to be suspicious about it|
+|[Requirements Traceability](https://visible-quality.blogspot.com/2021/02/requirements-traceability.html)|Maaret Pyhäjärvi|Blog post|a good case against requirements traceability|
 
 
 
