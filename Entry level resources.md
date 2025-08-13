@@ -7,6 +7,7 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 
 |Resource|Content by| Type |Why is it recommended ?|
 |---|---|---|---|
+|[Bug advocacy is to go beyond reporting](https://visible-quality.blogspot.com/2025/08/bug-advocacy-is-to-go-beyond-reporting.html)|Maaret Pyhäjärvi|Blog|On the basic responsibility of a tester|
 |[Things the Frog Did Not Notice Before It Was Late](http://visible-quality.blogspot.com/2018/02/things-frog-did-not-notice-before-it.html)|Maaret Pyhäjärvi|Blog|Challenges common outdated beliefs and practices that are still taught today|
 |[Three Kinds Of Testing](https://visible-quality.blogspot.com/2018/09/three-kinds-of-testing.html)|Maaret Pyhäjärvi|Blog|Test cases, automation and what actually is testing|
 |[Considering a Career in Software Testing?](http://blog.eviltester.com/2018/02/considering-software-testing-career.html)   |Alan Richardson|Video (20 minutes) \ post|Provides a good approach to starting in software testing, with specific resource recommendations, but more importantly, with a professional approach|
