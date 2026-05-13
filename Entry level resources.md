@@ -33,4 +33,5 @@ This list probably won't contain: Specific tools, how-to tutorials and such. Tho
 |[Flaky testing](https://www.developsense.com/blog/2021/02/flaky-testing/)|Michael Bolton|Blog post|"This test is flaky" is commonly used as an excuse, here's a good reason to be suspicious about it|
 |[Requirements Traceability](https://visible-quality.blogspot.com/2021/02/requirements-traceability.html)|Maaret Pyhäjärvi|Blog post|a good case against requirements traceability|
 |[Zooming in and out](https://www.dowen.me.uk/posts/zooming-in-and-out/)|Ben Dowen|Blog post|A great description of the most fundemental testing skill|
+|[Stop Measuring Fast. Start Measuring Better](https://www.annemariecharrett.com/stop-measuring-fast-start-measuring-better/)|Anne-Marie Charret|Blog post|An intersting notion - when working faster, keeping things "the same" is actually worse. We must do better on average to keep the overall experience similar|
 
